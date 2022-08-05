@@ -1,0 +1,15 @@
+INFO  | 2022-08-01 19:04:37 | [main] javapractice2.Application (Application.java:12) - Hello worldwill be printed on info
+WARN  | 2022-08-01 19:04:37 | [main] javapractice2.Application (Application.java:13) - Hello worldwill be printed on warn 
+ERROR | 2022-08-01 19:04:37 | [main] javapractice2.Application (Application.java:14) - Hello worldwill be printed on error 
+FATAL | 2022-08-01 19:04:37 | [main] javapractice2.Application (Application.java:15) - Hello worldwill be printed on fatal 
+INFO  | 2022-08-01 19:04:37 | [main] javapractice2.Application (Application.java:16) - Appending string:Hello world
+INFO  | 2022-08-01 19:06:50 | [main] javapractice2.Application (Application.java:12) - Hello worldwill be printed on info
+WARN  | 2022-08-01 19:06:50 | [main] javapractice2.Application (Application.java:13) - Hello worldwill be printed on warn 
+ERROR | 2022-08-01 19:06:50 | [main] javapractice2.Application (Application.java:14) - Hello worldwill be printed on error 
+FATAL | 2022-08-01 19:06:50 | [main] javapractice2.Application (Application.java:15) - Hello worldwill be printed on fatal 
+INFO  | 2022-08-01 19:06:50 | [main] javapractice2.Application (Application.java:16) - Appending string: {}Hello world
+INFO  | 2022-08-05 08:12:32 | [main] javapractice2.Application (Application.java:12) - Hello worldwill be printed on info
+WARN  | 2022-08-05 08:12:32 | [main] javapractice2.Application (Application.java:13) - Hello worldwill be printed on warn 
+ERROR | 2022-08-05 08:12:32 | [main] javapractice2.Application (Application.java:14) - Hello worldwill be printed on error 
+FATAL | 2022-08-05 08:12:32 | [main] javapractice2.Application (Application.java:15) - Hello worldwill be printed on fatal 
+INFO  | 2022-08-05 08:12:32 | [main] javapractice2.Application (Application.java:16) - Appending string: {}Hello world
